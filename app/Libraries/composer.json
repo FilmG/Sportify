@@ -1,0 +1,6 @@
+{
+    "name": "google/login",
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}

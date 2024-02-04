@@ -1,0 +1,10 @@
+HTML
+To use an icon on your page, add a prefix
+
+bx- for regular icons, 
+bxs- for solid icons & 
+bxl- for logos followed by the icon name and seperate class with thebx:
+
+<i class='bx bx-user'></i>
+<i class='bx bxs-user'></i>
+<i class='bx bxl-facebook-square'></i>
